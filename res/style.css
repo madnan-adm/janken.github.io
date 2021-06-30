@@ -211,12 +211,12 @@ button {
 
 @media (min-width: 500px) {
     .splash .center {
-        padding-top: 240px;
+        padding-top: 270px;
         background-size: 260px;
     }
 
     .splash .center h1 {
-        margin: 0 0 30px;
+        margin: 0 0 20px;
         font-size: 4em;
         -webkit-text-astoke: 3px #4a5f6c;
     }
